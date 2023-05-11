@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\VS 19 Projects\Library Management\Library Management\main.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\VS 19 Projects\Library Management\Library Management\AVLTree.h(225): warning C4715: 'AVL<BookRef>::searchBook': not all control paths return a value
+E:\VS 19 Projects\Library Management\Library Management\AVLTree.h(198): warning C4715: 'AVL<BookRef>::Search': not all control paths return a value
+  Library Management.vcxproj -> E:\VS 19 Projects\Library Management\Debug\Library Management.exe
